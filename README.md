@@ -4,7 +4,7 @@
 <center> 
 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
 
-🏫 **Sophomore CE Student at Istanbul Medipol University**
+🏫 **Junior CE Student at Istanbul Medipol University**
 
 🙋‍♂️ **18 years old enthusiast**
 </center>
