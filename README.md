@@ -96,10 +96,23 @@
 	
 </details>
 
+<details><summary>Weekly Activity</summary>	
+
+<div align="center">
+	<img src="https://wakatime.com/share/@woosal/80ddc0e2-5578-4e7c-b5db-c6e822996f60.svg" width=425 />
+	<img src="https://wakatime.com/share/@woosal/7fea7b86-c687-4360-a7f0-fd7867060acd.svg" width=425 />
+</div>
+
+<div align="center">
+	<img src="https://wakatime.com/share/@woosal/02fff416-e0f9-48f2-9aa8-c9bb843f77b9.svg" width=425 />
+</div>
+</details>	
+	
+	
 <p align="center">
 <img src="https://spotify1337.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />
 </p>
-	
+
 
 ```
                                           $$\    $$$$$$\   $$$$$$\  $$$$$$$$\ 
