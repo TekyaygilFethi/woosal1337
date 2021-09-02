@@ -1,4 +1,6 @@
-## ![Welcome to my profile 🤟](https://woosal.com/1337/github1337.gif)
+<center>
+  <img src="ricky.gif" />
+</center>
 
 
 <center> 
