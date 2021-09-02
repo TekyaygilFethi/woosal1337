@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-	| <a href="https://woosal.com">blog</a> | <a href="https://gist.github.com/woosal1337">gist</a> | <a href="https://github.com/woosal1337/dotfiles">dotfiles</a> | 
+	<img src="https://img.shields.io/badge/arch-1877F2?style=for-the-badge&logo=archlinux&logoColor=white" /> | <a href="https://woosal.com">blog</a> | <a href="https://gist.github.com/woosal1337">gist</a> | <a href="https://github.com/woosal1337/dotfiles">dotfiles</a> | <img src="https://img.shields.io/badge/debian-1877F2?style=for-the-badge&logo=debian&logoColor=white" />
 </div>
 
 <br>
