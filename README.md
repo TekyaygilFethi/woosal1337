@@ -1,7 +1,6 @@
-<center>
+<div align="center">
   <img src="ricky.gif" />
-</center>
-
+</div>
 
 <center> 
 🔭 I am interested in Python/Artificial Intelligence/Computer Vision!
