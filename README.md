@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-	<img src="https://img.shields.io/badge/arch-1877F2?style=for-the-badge&logo=archlinux&logoColor=white" /> | <a href="https://woosal.com">blog</a> | <a href="https://gist.github.com/woosal1337">gist</a> | <a href="https://github.com/woosal1337/dotfiles">dotfiles</a> | <img src="https://img.shields.io/badge/debian-1877F2?style=for-the-badge&logo=debian&logoColor=white" />
+	| <a href="https://woosal.com">blog</a> | <a href="https://gist.github.com/woosal1337">gist</a> | <a href="https://github.com/woosal1337/dotfiles">dotfiles</a> |
 </div>
 
 <br>
@@ -20,6 +20,7 @@
 <br>
 
 <p align="center">
+<a href="https://woosal.com"><img align="center" src="https://img.shields.io/badge/archer-1877F2?style=for-the-badge&logo=archlinux&logoColor=white" /></a> 
 <a href="https://www.facebook.com/woosal1337/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="woosal1337"/></a>
 <a href="https://www.instagram.com/woosal1337/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="woosal1337"/></a>
 <a href="https://twitter.com/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="woosal1337"/></a>
