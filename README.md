@@ -21,7 +21,6 @@
 
 <p align="center">
 <a href="https://woosal.com"><img align="center" src="https://img.shields.io/badge/linux-1877F2?style=for-the-badge&logo=linux&logoColor=white" /></a> 
-<a href="https://www.facebook.com/woosal1337/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="woosal1337"/></a>
 <a href="https://www.linkedin.com/in/woosal/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="woosal1337"/></a>
 <a href="https://www.reddit.com/user/woosal1337" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="woosal1337"/></a>
 
