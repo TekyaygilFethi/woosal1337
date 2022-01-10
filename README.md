@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-	| <a href="https://woosal.com">blog</a> | <a href="https://gist.github.com/woosal1337">gist</a> | <a href="https://github.com/woosal1337/dotfiles">dotfiles</a> |
+	| <a href="https://woosal.com">blog</a> | <a href="https://gist.github.com/woosal1337">gist</a> | <a href="https://github.com/woosal1337/dotfiles">dotfiles</a> | <a href="https://vusal.hns.to">hns</a> |
 </div>
 
 <br>
